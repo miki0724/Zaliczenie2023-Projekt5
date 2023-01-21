@@ -1,6 +1,6 @@
 # Project Name
 
-WeatherBoii
+Ksiegarnia
 
 ## Table of Contents
 
@@ -18,18 +18,18 @@ WeatherBoii
 
 ## General Information
 
-- Strona internetowa pokazujaca pogode za pomoca openweathermap
+- Projekt został odseparowany od projektu sklepu że zdrowa żywnością ze względu na pojawiające się błędy podczas podłączania express'u do projektu.
+- że względu na przeszkody Projekt pozwala na wprowadzanie i modyfikowanie danych z firebasa
 
 ## Technologies Used
 
-- Tech 1 - react
-- Tech 2 - pobieranie API
+- Tech 1 - node.js, Express.js
+- Tech 2 - firebase
 
 ## Features
 
-List the ready features here:
+dodawanie i modyfikowanie danych z firebase'a
 
-- pokazuje pogode
 
 ## Screenshots
 
@@ -44,8 +44,7 @@ List the ready features here:
 
 ## Usage
 
-Aplikacja stworzona w reacie, po zainstalowaniu --npm start, przeniesie nas na localhosta:3000
-Wpisujemy miasto, nastepnie pokazuje nam pogode, wilgotnosc i predkosc wiatru
+do opisanych komórek dodajemy wartości, które później możemy dobrowolnie modyfikować i edytować 
 
 ## Project Status
 
@@ -53,11 +52,10 @@ Zakonczono wspieranie projektu
 
 ## Room for Improvement
 
-navbar z szybkim wybieraniem miast
+dodanie kolejnych komórek, np. z ilością stanu magazynowego
 
 ## Acknowledgements
-
---yt/https://www.youtube.com/watch?v=Qz7swLxNS0Y&t=1837s
+--node js 
 
 ## Contact
 
